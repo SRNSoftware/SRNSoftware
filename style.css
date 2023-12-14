@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+li a:hover {
+    /* background-color: #17C4BB; */
+    color: #17C4BB;
+  }
+  li a{
+    color: #FFFFFF;
+  }
+  
